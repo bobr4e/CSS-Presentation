@@ -82,7 +82,6 @@ button:disabled{
 button:hover:enabled{
     border-color: #f6cf2c;
     background: linear-gradient(#fdec5f 50%, #f6c319 50%);
-    box-shadow: inset 0 0 10px #fcfddf ;
 }
 
 .digit{
